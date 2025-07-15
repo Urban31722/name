@@ -20,7 +20,7 @@ const categories = [
   },
   {
     id: "chinese",
-    name: "중식",
+    name: "중국음식",
     emoji: "🥢",
     description: "중국요리",
     image: "/placeholder.svg?height=80&width=80",
