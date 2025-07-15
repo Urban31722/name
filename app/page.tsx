@@ -12,7 +12,7 @@ import Image from "next/image"
 const categories = [
   {
     id: "korean",
-    name: "한식",
+    name: "한국음식",
     emoji: "🍲",
     description: "집밥같은 한국요리",
     image: "/placeholder.svg?height=80&width=80",
